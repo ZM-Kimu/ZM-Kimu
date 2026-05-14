@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img height="170" src="https://ghstats.dev/api/langs?username=ZM-Kimu&layout=bar&bg=00000000&text=7a7385&title_color=f8c8dc&icon_color=c7b8ff&border_color=f8c8dc&custom_title=★ Language !" alt="Kimu languages" />
+<img height="170" src="https://ghstats.dev/api/langs?username=ZM-Kimu&layout=bar&bg=00000000&text=7a7385&title_color=f8c8dc&icon_color=c7b8ff&border_color=f8c8dc&custom_title=%E2%98%85%20Language%20%21" alt="Kimu languages" />
 
 <br />
 
