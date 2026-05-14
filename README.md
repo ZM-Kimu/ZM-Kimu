@@ -10,8 +10,9 @@
 
 </div>
 
-后端与各种工具链开发。主力 Python，也会写 Unity、TS、Flutter、ESP 硬件的小项目。
-善于处理UI/Animation Design、AI Agent和一些反编译工程~
+<br />
+后端与各种工具链开发。主力 Python，也涉及 Unity、TS、Flutter、ESP 硬件等。
+善于处理UI/Animation Design、AI Agent和一些反编译工程...
 
 
 ## 统计
@@ -137,7 +138,7 @@
 ### 设计
 - 如果一个程序有用户界面，那么它必须有设计。
 - 如果一个元素有状态变化，那么它必须有动画。
-- <sub><code>#非线性动画</code> · <code>#扁平化设计</code></sub>
+- **`#非线性动画` · `#扁平化设计`**
 
 ### 编码
 - 尝试尊重一个语言的规范。

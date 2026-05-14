@@ -10,8 +10,9 @@
 
 </div>
 
-Backend and tooling development. Mainly Python; also builds small Unity, TypeScript, Flutter, and ESP hardware projects.
-Comfortable with UI / Animation Design, AI Agents, and some decompilation engineering~
+<br />
+Backend and tooling development. Mainly Python; also touches Unity, TypeScript, Flutter, ESP hardware, etc.
+Comfortable with UI / Animation Design, AI Agents, and some decompilation engineering...
 
 ## Stats
 
@@ -135,7 +136,7 @@ Comfortable with UI / Animation Design, AI Agents, and some decompilation engine
 ### Design
 - If a program has a user interface, then it must have design.
 - If an element has state changes, then it must have animation.
-- <sub><code>#non-linear-animation</code> &middot; <code>#flat-design</code></sub>
+- **`#non-linear-animation` &middot; `#flat-design`**
 
 ### Coding
 - Try to respect the conventions of a language.
